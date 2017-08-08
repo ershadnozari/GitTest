@@ -10,7 +10,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            // Code updated in GitHub.
+            // Code updated in GitHub
+
+            // Code was added in VS
         }
     }
 }
