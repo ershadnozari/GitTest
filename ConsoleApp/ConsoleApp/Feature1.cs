@@ -8,6 +8,6 @@ namespace ConsoleApp
 {
     class Feature1
     {
-        // Added code in VS
+        // Added code in VS2017
     }
 }
